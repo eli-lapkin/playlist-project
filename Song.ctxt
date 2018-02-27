@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=_artist\ _name
+comment0.target=Song(Artist,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=Artist\ getArtist()
+comment3.params=other
+comment3.target=boolean\ equals(Song)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
