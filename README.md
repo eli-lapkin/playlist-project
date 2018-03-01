@@ -12,4 +12,4 @@ There's no GUI, so just run it from any Java compiler.
 
 ## Authors
 
-Eli Lapkin (with assistance from Mr. Morris)
+Eli Lapkin (with assistance from [Mr. Morris](http://mrmonline.org/site/))
